@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Flooring Calculator</string>
+    <string name="textViewRW">Room Width</string>
+    <string name="textEditRoomWidthHint">Enter a number</string>
+    <string name="textViewRL">Room Length</string>
+    <string name="textEditRoomLengthHint">Enter a number</string>
+    <string name="textViewTitle">Flooring Calculator</string>
+    <string name="buttonCalc">Calculate Result</string>
+    <string name="textViewFloorNeeded">Flooring needed:</string>
+    <string name="textViewFloorResult" />
+    <string name="buttonDone">Done</string>
+</resources>
