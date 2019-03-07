@@ -23,8 +23,8 @@ public class FlooringResult extends AppCompatActivity {
         btnDone = (Button) findViewById(R.id.buttonDone);
 
         Bundle extras = getIntent().getExtras();
-        width = extras.getString("width");
-        length = extras.getString("length");
+        width = extras.getString("Width");
+        length = extras.getString("Length");
         //seems like errors with parsing int
         rWidth = Integer.parseInt(width);
         rLength = Integer.parseInt(length);
